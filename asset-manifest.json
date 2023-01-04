@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MonarchSMP-Website/static/css/main.cb24ed6d.css",
+    "main.js": "/MonarchSMP-Website/static/js/main.ae5b095c.js",
+    "static/js/787.c1112931.chunk.js": "/MonarchSMP-Website/static/js/787.c1112931.chunk.js",
+    "index.html": "/MonarchSMP-Website/index.html",
+    "main.cb24ed6d.css.map": "/MonarchSMP-Website/static/css/main.cb24ed6d.css.map",
+    "main.ae5b095c.js.map": "/MonarchSMP-Website/static/js/main.ae5b095c.js.map",
+    "787.c1112931.chunk.js.map": "/MonarchSMP-Website/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb24ed6d.css",
+    "static/js/main.ae5b095c.js"
+  ]
+}
